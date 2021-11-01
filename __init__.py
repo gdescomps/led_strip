@@ -1,0 +1,1 @@
+"""The Led Strip integration."""

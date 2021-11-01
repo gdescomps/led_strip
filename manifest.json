@@ -1,0 +1,10 @@
+{
+  "domain": "led_strip",
+  "name": "Led strip",
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/example_light/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "assumed_state",
+  "version": "0.1.0"
+}
